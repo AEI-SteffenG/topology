@@ -19,3 +19,15 @@
   ResourceName: AEI-Hypatia-CE1
   Services:
   - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 2491071291
+  Description: Full cluster upgrade (Debian 12 -> 13) in preparation of IR1
+  Severity: Outage
+  StartTime: Aug 24, 2026 07:30 +0000
+  EndTime: Aug 26, 2026 15:00 +0000
+  CreatedTime: Jul 15, 2026 09:18 +0000
+  ResourceName: AEI-Hypatia-CE1
+  Services:
+  - CE
+# ---------------------------------------------------------
